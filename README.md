@@ -115,13 +115,12 @@ Layoffs were primarily driven by mature, publicly listed companies rather than e
 ### 5️⃣ Funding vs Layoffs Analysis
 
 A correlation analysis between total funding and total layoffs returned:
+correlation = 0.11
+A weak positive relationship was observed between funding and layoffs (r ≈ 0.11, R² ≈ 1.17%)
 
-**Correlation coefficient (r) = 0.11**
-
-This indicates a **weak relationship** between funding and layoffs.
 
 📌 Interpretation:
-Funding levels alone were not strong predictors of layoff decisions. External macroeconomic pressures and strategic restructuring likely played a larger role.
+This suggest that Funding levels alone were not strong predictors of layoff decisions. External macroeconomic pressures and strategic restructuring likely played a larger role.
 
 ---
 
